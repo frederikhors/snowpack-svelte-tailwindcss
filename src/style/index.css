@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+
+@import "./colors.css";
+
+@tailwind utilities;
+
+body {
+  background-color: $my-custom-bgcolor;
+}
