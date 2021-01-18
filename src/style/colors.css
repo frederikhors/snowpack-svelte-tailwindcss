@@ -1,1 +1,5 @@
-$my-custom-bgcolor: #ff0000;
+/* $my-custom-bgcolor: #ff0000; */
+
+body {
+  background-color: green !important;
+}
