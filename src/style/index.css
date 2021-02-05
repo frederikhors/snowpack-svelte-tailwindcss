@@ -1,10 +1,8 @@
-@tailwind base;
-@tailwind components;
-
-@import "./colors.css";
+@import "/dist/style/tailwind.css";
+@import "/dist/style/colors.css";
 
 @tailwind utilities;
 
 body {
-  background-color: $my-custom-bgcolor;
+    background-color: var(--my-custom-bgcolor);
 }
