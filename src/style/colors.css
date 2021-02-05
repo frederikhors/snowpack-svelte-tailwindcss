@@ -1,1 +1,3 @@
-$my-custom-bgcolor: #ff0000;
+:root {
+    --my-custom-bgcolor: #ff0000;
+}
